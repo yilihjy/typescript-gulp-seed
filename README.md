@@ -3,8 +3,8 @@ A seed for someone who will write a third party library with typescript,gulp and
 
 # Install
 
-Install gulp,jasmine  
-`npm install -g gulp-cli gulp jasmine`  
+Install gulp,jasmine,typescript  
+`npm install -g gulp-cli gulp jasmine typescript`  
 
 Frok this seed OR  
 `git clone https://github.com/yilihjy/typescript-gulp-seed.git`  
